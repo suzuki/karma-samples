@@ -1,0 +1,30 @@
+{
+  "name": "karma-samples",
+  "version": "0.0.1",
+  "description": "Karma Samples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suzuki/karma-samples.git"
+  },
+  "keywords": [
+    "karma"
+  ],
+  "author": "Norio Suzuki <norio.suzuki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suzuki/karma-samples/issues"
+  },
+  "homepage": "https://github.com/suzuki/karma-samples",
+  "devDependencies": {
+    "jasmine-core": "^2.3.2",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.8",
+    "karma-firefox-launcher": "^0.1.5",
+    "karma-jasmine": "^0.3.5",
+    "karma-safari-launcher": "^0.1.1"
+  }
+}
